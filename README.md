@@ -1,1 +1,1 @@
-# old-buddies-website
+# blog

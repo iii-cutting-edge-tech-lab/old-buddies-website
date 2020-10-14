@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>old buddies website</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on old buddies website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 13 Oct 2020 00:00:00 +0800</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      
+        <description>&lt;p&gt;iii old buddies website&lt;/p&gt;
+&lt;p&gt;Learn more on &lt;a href=&#34;https://iii-cutting-edge-tech-lab.github.io&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+  </channel>
+</rss>

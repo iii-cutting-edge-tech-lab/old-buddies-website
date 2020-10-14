@@ -1,0 +1,24 @@
+name: hugo-remote
+
+on:
+  push:
+    branches:
+      - master
+
+env:
+  REMOTE: iii-cutting-edge-tech-lab/iii-cutting-edge-tech-lab.github.io.git
+  DEST: public
+  TOKEN: ${{ secrets.TOKEN }}
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🛎 Check out master
+        uses: actions/checkout@master
+        with:
+          fetch-depth: 1
+      - name: 🚀 Build and deploy
+        uses: victoriadrake/hugo-remote@master
