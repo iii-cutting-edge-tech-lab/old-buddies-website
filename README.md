@@ -44,4 +44,6 @@ hugo -D
 
 # new file need to track
 git add . && git ci -a -m "🚀 Build and deploy"
+
+git push
 ```
