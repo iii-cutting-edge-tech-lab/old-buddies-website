@@ -41,4 +41,7 @@ cd $HOME/old-buddies-website
 hugo -D
 
 # output will in public dir.
+
+# new file need to track
+git add . && git ci -a -m "🚀 Build and deploy"
 ```
