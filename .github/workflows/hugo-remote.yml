@@ -21,4 +21,4 @@ jobs:
         with:
           fetch-depth: 1
       - name: 🚀 Build and deploy
-        uses: victoriadrake/hugo-remote@master
+        uses: guan840912/hugo-remote@master
