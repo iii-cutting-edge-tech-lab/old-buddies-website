@@ -3,7 +3,7 @@ name: hugo-remote
 on:
   push:
     branches:
-      - master
+      - main
 
 env:
   REMOTE: iii-cutting-edge-tech-lab/iii-cutting-edge-tech-lab.github.io.git
