@@ -7,7 +7,7 @@ git clone https://github.com/iii-cutting-edge-tech-lab/old-buddies-website.git
 
 cd old-buddies-website
 ## add example.md to content/post/ like 
-vim content/post/example.md [link](./content/post/example.md)
+vim content/post/example.md
 ==================================================================
 ---
 title: "Hello Wolrd Page"
