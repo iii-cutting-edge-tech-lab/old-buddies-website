@@ -1,5 +1,3 @@
-# blog
-
 ## 如何發表文章
 see https://themes.gohugo.io/hugo-theme-jane/
 ```bash
