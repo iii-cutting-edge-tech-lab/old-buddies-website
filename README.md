@@ -1,8 +1,6 @@
 ## 如何發表文章
 see https://themes.gohugo.io/hugo-theme-jane/
 ```bash
-cd $HOME
-
 git clone https://github.com/iii-cutting-edge-tech-lab/old-buddies-website.git
 
 cd old-buddies-website
@@ -35,10 +33,10 @@ hugo server -D
 
 ### 發布文章
 ```bash
-cd $HOME/old-buddies-website
+cd old-buddies-website
 
 # new file need to track
-git add . && git ci -a -m "🚀 Build and deploy"
+git add . && git ci -a -m "what-you-do?!"
 
 git push
 ```
