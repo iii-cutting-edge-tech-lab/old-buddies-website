@@ -1,4 +1,4 @@
-baseURL = "http://example.com/"
+baseURL = "https://iii-cutting-edge-tech-lab.github.io"
 languageCode = "en-us"
 title = "Hugo Grayscale Theme"
 theme = "hugograyscale"
