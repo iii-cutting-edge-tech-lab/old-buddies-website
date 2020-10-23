@@ -20,5 +20,6 @@ jobs:
         uses: actions/checkout@master
         with:
           fetch-depth: 1
+          submodules: true
       - name: 🚀 Build and deploy
         uses: guan840912/hugo-remote@master
