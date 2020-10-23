@@ -7,6 +7,6 @@ weight: 4
 ### Special thanks to
 ![](/img/lbh.png)![](/img/lg.png)
 {{< socialhandles >}}
-    {{< facebook user="groups/349727092633390" >}}
-    {{< github user="iii-cutting-edge-tech-lab" >}}
+    {{< facebook >}}
+    {{< github >}}
 {{< /socialhandles >}}

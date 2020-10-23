@@ -5,5 +5,7 @@ improvecontrast: true
 ---
 
 ## Sessions
-![](/img/session1.png)
+
+{{< img src="https://iii-cutting-edge-tech-lab.github.io/img/session1.png" >}}
+
 {{< big-button text="Download Session" href="https://iii-cutting-edge-tech-lab.github.io/img/session1.png" >}}
