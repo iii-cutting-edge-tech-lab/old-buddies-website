@@ -1,10 +1,12 @@
 ---
 title: "SPECIAL THANKS TO"
-weight: 4
+weight: 103
 header_menu: true
 ---
 
-![](images/lbh.png)![](images/lg.png)
+![lbh](images/lbh.png)
+
+![lg](images/lg.png)
 
 {{<icon class="fa fa-facebook">}}&nbsp;[中壢資策會 Old Buddies](https://www.facebook.com/groups/349727092633390)
 

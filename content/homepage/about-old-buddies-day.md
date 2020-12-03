@@ -1,8 +1,13 @@
 ---
 title: "ABOUT OLD BUDDIES DAY"
-weight: 1
+weight: 101
 header_menu: true
 ---
+
+期待明年相見
+
+<!--
+It's hidden comment
 ##
 ##
 ##
@@ -23,3 +28,4 @@ header_menu: true
 ##
 ### 地點
 ![](images/old-buddies-pic1.png)
+-->
